@@ -1,0 +1,5 @@
+TOKEN = '6080733157:AAGpEVg909SVb69h6akMmtYdVJGvQdhsljQ'
+DBNAME = 'telegram_bot'
+USER = 'user_telegram_bot'
+PASSWORD = '2000'
+HOST = 'localhost'
